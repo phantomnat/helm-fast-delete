@@ -1,0 +1,7 @@
+---
+name: "fast-delete"
+version: "0.1.0"
+usage: "delete and purge a release incredibly fast"
+description: "delete and purge a release incredibly fast"
+useTunnel: true
+command: "$HELM_PLUGIN_DIR/fast-delete.sh"
